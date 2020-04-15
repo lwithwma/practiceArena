@@ -1,3 +1,5 @@
+//01 Knapsack is a dynamic programming problem. 
+
 #include<iostream>
 using namespace std;
 
